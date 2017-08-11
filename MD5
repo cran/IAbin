@@ -1,0 +1,16 @@
+c3bd34f3246ec88ae9e0c8a88fa993ac *DESCRIPTION
+3d43760be2ccdd4afdf1875efe79d69d *NAMESPACE
+c414a6dfde63c4e7b5d9a35e42db3a56 *R/IAbin.R
+155331dd9aa48a326e994c9e220264be *R/plotNTfut.R
+2974e62718efefbe42ae0b859d502a0a *R/plotNTsup.R
+433d74ee4e8d0896c97f3903e2700e22 *build/vignette.rds
+a7e76412e450fcfb02ae52c8554e5196 *inst/doc/vignette-IAbin.R
+c338e7531480c327caa4cdf090846cc9 *inst/doc/vignette-IAbin.Rmd
+66d28115f99b88231d3781d030adc695 *inst/doc/vignette-IAbin.html
+b8963b30adb890e592dbf2957b5cb5e9 *man/plotNT.fut.Rd
+534c983e6cfcd94fdf1b48c6295d1ec5 *man/plotNT.sup.Rd
+c9d61c4a38074c4c0be6ceb2ec9e7c41 *tests/test-all.R
+4efc578994dacbc4299b7328658f3eee *tests/testthat/Rplots.pdf
+894bbe54f59fe28dfba8ff5788917916 *tests/testthat/test-NTplot.R
+c338e7531480c327caa4cdf090846cc9 *vignettes/vignette-IAbin.Rmd
+dc5d1093d6e7963cf403859ea761d2e5 *vignettes/vignette-IAbin.md
